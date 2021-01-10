@@ -1,5 +1,17 @@
 #!/usr/bin/env python
 
+"""
+Program: SSL Certificate Information <sslcert.py>
+
+Author: Jeff < jkfields at yahoo dot com >
+
+Last Updated: 1-10-2021
+
+Revision History:
+  Version 1.0 - Initial release
+
+"""
+
 from datetime import datetime
 import re
 from subprocess import Popen, PIPE
