@@ -1,5 +1,16 @@
 #!/usr/bin/env python
 
+"""
+Program: SSL Certificate Information <sslcert_alt.py>
+
+Author: Jeff < jkfields at yahoo dot com >
+
+Last Updated: 1-10-2021
+
+Revision History:
+  Version 1.0 - Initial release
+"""
+
 import ssl
 import socket
 from pprint import PrettyPrinter
